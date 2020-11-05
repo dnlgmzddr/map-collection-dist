@@ -22,7 +22,7 @@
     "url": "https://github.com/highcharts/map-collection-dist/issues"
   },
   "homepage": "https://github.com/highcharts/map-collection-dist#readme",
-  "dependencies": {
+  "devDependencies": {
     "csv-parser": "^2.3.0",
     "csv-writer": "^1.5.0",
     "lodash": "^4.17.14"
